@@ -1,0 +1,7 @@
+sqlite3
+fastapi
+uvicorn
+time
+jwt
+decouple
+pydantic
